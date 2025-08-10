@@ -6,7 +6,7 @@ Welcome to **Fawzi UI/UX Portfolio**, a personal project designed to showcase my
 
 You can view the live demo of my portfolio here:  
 [**Live Demo**]([https://your-portfolio-link.com](https://github.com/AhmadNAveed567/Website-Portfolio))  
-*(Make sure to replace with your actual URL)*
+
 
 ## 🎨 Key Features
 
